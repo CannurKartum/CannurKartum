@@ -1,9 +1,13 @@
 ### Hello! Welcome to my Github <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   I'm a Computer Science student and also wants to be efficient developer one day! 
+
+  - 🌱 I’m currently learning Native Android Development
   
  <p align="left">
 <a href="https://www.linkedin.com/in/cannur-kartum/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://www.hackerrank.com/profile/kartumcannur">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a> 
  <a href="https://twitter.com/litsepoine">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <!--
