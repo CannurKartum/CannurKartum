@@ -1,7 +1,8 @@
 ### Hello! Welcome to my Github <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  I'm a Computer Science student and also wants to be efficient developer one day! 
+I’m a passionate Software Engineer focused on continuous improvement. With a specialization in Native Android Development, I graduated in July 2024 and am dedicated to mastering both mobile front-end and back-end technologies. I’m always eager to learn and innovate.
 
   - 🌱 I’m currently learning Native Android Development
+  - 📫 How to reach me: kartumcannur@gmail.com
   
  <p align="left">
 <a href="https://www.linkedin.com/in/cannur-kartum/">
